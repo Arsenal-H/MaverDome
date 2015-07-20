@@ -1,0 +1,7 @@
+package maven_web;
+
+public class Model {
+	public static void main(String[] args){
+		System.out.println("Hello World");
+	}
+}
